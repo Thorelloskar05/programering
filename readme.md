@@ -13,3 +13,7 @@ loggbok
 ##V.46:
 
   måndag: idag har jag pluggat på lite listor inför torsdagens prov och även börjat på funktioner.
+
+##V.2:
+  
+  torsdag:
