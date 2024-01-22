@@ -1,7 +1,13 @@
 loggbok
 =========================================
+## V 3
+
+  mådnag: idag har jag fortsatt jobba med mitt projekt och jag har även tagit tiden att skriva lite i loggboken.
+
 ## v 2
-torsdag: installert ...
+  
+  torsdag: idag har jag fått insallerat om allt och fixat med github. jag har även börjat på mitt nya projekt där jag gör blackjack i pygame.
+
 # v.41:  
 
   idag har jag gjort klart loggboken och även fixat klart med allt vi skulle göra med git. Jag har även pluggat på det tredje provet.
@@ -16,6 +22,4 @@ torsdag: installert ...
 
   måndag: idag har jag pluggat på lite listor inför torsdagens prov och även börjat på funktioner.
 
-## V.2:
-  
-  torsdag:
+
