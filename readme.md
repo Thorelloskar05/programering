@@ -2,7 +2,9 @@ loggbok
 =========================================
 ## V 3
 
-  mådnag: idag har jag fortsatt jobba med mitt projekt och jag har även tagit tiden att skriva lite i loggboken.
+  måndag: idag har jag fortsatt jobba med mitt projekt och jag har även tagit tiden att skriva lite i loggboken.
+
+  torsdag: idag har jag gjort ett test men det gick tyvärr inte hela vägen. Men jag har gjort samma test igen för att öva så kan jag det tills nästa gång. jag har även testat koden så att jag vet att det stämmer. Efter detta så har jag fortsatt med mitt projekt om blackjack i pygame.
 
 ## v 2
   
