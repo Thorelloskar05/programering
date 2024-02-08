@@ -1,5 +1,20 @@
 loggbok
 =========================================
+## V 6
+Måndag: fortsatt jobba med scratch idag fortsatt öva för att bli bättre på scratch inför onsdagen så jag kan lära ut något.
+
+## V 5
+
+måndag: idag har jag övat på scrath då vi ska nästa vecka på onsdag lära ut scratch till elever i 9an
+
+Torsdag: idag har jag fortsätta öva på scratch och idag har jag lärt mig hur man gör ett spel där gubben skjuter iväg kulor.
+
+## V 4
+
+måndag: idag har testat att göra ett prov men det gick inte hela vägen efter det så fortsätta jag plugga lite och efter de fortsätta jag med mitt projekt
+
+torsdag: idag har jag fortsatt jobba med mitt egna projekt om ett poker spel i pygame. 
+
 ## V 3
 
   måndag: idag har jag fortsatt jobba med mitt projekt och jag har även tagit tiden att skriva lite i loggboken.
@@ -12,7 +27,7 @@ loggbok
 
 # v.41:  
 
-  idag har jag gjort klart loggboken och även fixat klart med allt vi skulle göra med git. Jag har även pluggat på det tredje provet.
+  Måndag: har jag gjort klart loggboken och även fixat klart med allt vi skulle göra med git. Jag har även pluggat på det tredje provet.
   
 ## V.45:
 
