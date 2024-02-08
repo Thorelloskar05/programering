@@ -3,6 +3,8 @@ loggbok
 ## V 6
 Måndag: fortsatt jobba med scratch idag fortsatt öva för att bli bättre på scratch inför onsdagen så jag kan lära ut något.
 
+Torsdag: idag har jag pratat med ronny och rikard hur jag ligger till och om jag ska välja gå en kurs eller fortsätta som jag gör. Inte bestämt mig men efter de har jag fortsatt jobba med mitt projekt om poker i pygame. Stötte på ett problem idag och det var att jag hade råkat lägga till en extra ' så att min kod inte fungerade
+
 ## V 5
 
 måndag: idag har jag övat på scrath då vi ska nästa vecka på onsdag lära ut scratch till elever i 9an
